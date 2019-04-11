@@ -27,4 +27,7 @@
         <dependency name="find" rev="latest.integration" conf="default->standalone"/>
         <dependency name="sizewhere" rev="latest.integration" conf="default->standalone"/>
     </dependencies>
+
+
 </ivy-module>
+
